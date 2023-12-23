@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344473123647",
+    "project_id": "myart-fb5b9",
+    "storage_bucket": "myart-fb5b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344473123647:android:d8d89f139fa7cea8c7318a",
+        "android_client_info": {
+          "package_name": "com.example.my_art"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiwoNuIUrh8P84JmUhEwtM_j73K7W5A18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
